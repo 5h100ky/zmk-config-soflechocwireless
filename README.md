@@ -8,3 +8,8 @@ The Sofle Choc Wireless was designed by db, and is closely based on the Sofle Ch
 
 Build Guide 
 https://github.com/db-ok/SofleChocWireless/blob/main/docs/build_guide_choc_wireless.md
+
+--------
+UF2 for OLED and Backlight
+
+https://github.com/5h100ky/zmk-config-soflechocwireless/tree/oled-rgb
