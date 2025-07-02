@@ -9,6 +9,7 @@ The Sofle Choc Wireless was designed by db, and is closely based on the Sofle Ch
 ![20250506_203800](https://github.com/user-attachments/assets/675b396d-5b6d-41ff-935b-812f565b0790)
 ![20250506_203825](https://github.com/user-attachments/assets/7b8fa63b-810b-4065-bd00-4b9b2b625b64)
 ![20250506_203835](https://github.com/user-attachments/assets/87547819-3647-4a73-87fd-72ddb5b0fb16)
+![IMG_20250702_195944526](https://github.com/user-attachments/assets/97b79996-3fa6-4edb-ae82-83d47919b462)
 
 Wrong version of case, need to cut off 
 ![IMG_20250614_211359173](https://github.com/user-attachments/assets/aeb14e4c-f7b1-4662-9dcd-beaeeff3363e)
